@@ -1,0 +1,6 @@
+{
+  "name": "VoxGemini Studio - Google AI Voice Generator",
+  "description": "Studio-grade AI voice generation powered by Google AI Studio Gemini 3.8 Flash Lite TTS and unlimited free browser speech synthesis, with instant code export and API key onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
